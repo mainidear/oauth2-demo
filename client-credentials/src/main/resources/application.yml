@@ -12,6 +12,7 @@ spring:
   redis:
     host: 127.0.0.1
     database: 0
+    password: a123123
 #  jpa:
 #    hibernate:
 #      ddl-auto: none
